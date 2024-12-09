@@ -30,3 +30,7 @@ Intellij
 
 1. Clone the repository
 2. Open intellij and Run this program
+
+## Additional Information
+
+This project was graded 19/20, and it was done with the collaboration of  [Daniel Ribeiro](https://github.com/Danielffribeiro).
